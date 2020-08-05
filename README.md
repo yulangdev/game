@@ -48,4 +48,8 @@
 * 기술 스택 : Flex, PHP
 * 동영상 : https://youtu.be/0SCf0Bg7OXY
 
-![유플레이어](https://user-images.githubusercontent.com/68100240/88159459-4a087000-cc48-11ea-8d35-2f95932d121f.png)
+### 블로그에 포함된 MP3 파일 검색 및 재생 화면
+![유플레이어1](https://user-images.githubusercontent.com/68100240/89381528-468ae380-d734-11ea-8e85-dc276675aad1.png)
+
+### 멜론 가사보기 및 음원순위 화면
+![유플레이어2](https://user-images.githubusercontent.com/68100240/89381529-47bc1080-d734-11ea-9d08-c9854ecfc938.png)
